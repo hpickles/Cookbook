@@ -1,6 +1,7 @@
 \documentclass[twoside]{book}
 \usepackage[top=1in,bottom=1.25in,left=1.25in,right=1in,paperwidth=8in,paperheight=10in]{geometry}
 \usepackage{titlesec}
+\usepackage{graphicx}
 
 \titleformat{\chapter}[display]{\normalfont\huge\bfseries}{}{0pt}{\Huge}
 \titlespacing*{\chapter} {0pt}{20pt}{40pt}
@@ -50,7 +51,22 @@
 \newpage
 
 	\section{Cake 1}
-	\blindtext
+	\begin{tabular}{p{.5\textwidth} r}
+		\begin{itemize}
+			\item 2 cup of Flour
+			\item 1/2 cup of Sugar
+			\item 1/2 cup of Chocolate Chips
+			\item 2 Egg
+			\item 1/2 cup of sugar
+		\end{itemize}
+		& \raisebox{-\totalheight}{\includegraphics[width=.4\textwidth]{cake.jpg}}\\
+	\end{tabular}
+	\vspace{5em} 
+	\vspace{3em} \hrule
+	\vspace{3em} \hrule
+	\vspace{3em} \hrule
+	\vspace{3em} \hrule
+	\vspace{3em} \hrule
 	\newpage
 
 	\section{Cake 2}
