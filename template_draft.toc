@@ -2,3 +2,8 @@
 \contentsline {section}{\numberline {1.1}Cake 1}{6}
 \contentsline {section}{\numberline {1.2}Cake 2}{7}
 \contentsline {section}{\numberline {1.3}Cake 3}{8}
+\contentsline {chapter}{\numberline {2}Cookies}{9}
+\contentsline {section}{\numberline {2.1}Coconut Oatmeal Cookies}{10}
+\contentsline {section}{\numberline {2.2}Double Ginger Crackles}{11}
+\contentsline {chapter}{\numberline {3}Muffins}{13}
+\contentsline {section}{\numberline {3.1}Best Ever Basic Muffins}{14}
